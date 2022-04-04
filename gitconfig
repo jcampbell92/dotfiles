@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jcampbell92@icloud.com
+	name = James Campbell
